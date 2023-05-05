@@ -1,11 +1,11 @@
-package main
+package learngolang
 
 import (
 	"fmt"
 	
 )
 
-func main() {
+func hello() {
 	fmt.Print("hello world !")
 
 }
