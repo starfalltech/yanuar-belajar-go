@@ -1,3 +1,3 @@
-module github.com/yanuarnval/yanuar-go
+module github.com/starfalltech/yanuar-belajar-go
 
 go 1.20
