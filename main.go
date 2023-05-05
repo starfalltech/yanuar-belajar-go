@@ -10,8 +10,8 @@ func main() {
 
 }
 
-func count (){
+func Count(hell string){
 	
-	fmt.Print("1+2")
+	fmt.Printf("1+2 : %s",hell)
 }
 
